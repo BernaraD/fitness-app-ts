@@ -1,0 +1,19 @@
+Vite is faster front end library
+1. npm create vite@latest
+Project name: fitness-app
+Framework: React
+TypeScript
+
+2. cd my app
+3. npm i
+4. npm run dev
+
+5. Animation library, npm i framer-motion
+6. npm i react-anchor-link-smooth-scroll@1.0.12
+6. Icons made by Tailwind npm i @heroicons/react
+
+Dev dependencies
+7. npm i -D @types/react-anchor-link-smooth-scroll@1.0.2 @types/node
+8. Installing tailwind for Vite: npm install -D tailwindcss postcss autoprefixer
+9. npx tailwindcss init -p
+10. npm i -D prettier prettier-plugin-tailwindcss
